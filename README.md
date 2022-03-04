@@ -1,2 +1,4 @@
-# codeigniter-inventory-manager
-A PHP codeigniter application for managing a brick-and-mortar commerce shop
+# Node-express-inventory-manager-api
+A Nodejs inventory management web app for running a brick-and-mortar commerce shop.
+The stack include Express, Nodejs and MongoDB
+
